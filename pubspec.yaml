@@ -1,7 +1,7 @@
-name: animated_expolde_button
+name: animated_explode_button
 description: An exploding animation with physics based particles to spice up those boring button clicks.
-version: 0.0.1
-repository: https://github.com/SaubhagyaDubey/animated_explode_button
+version: 0.0.2
+repository: https://github.com/SaubhagyaDubey/animated_expolde_button
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
