@@ -1,8 +1,9 @@
-## [0.0.1] - 17 April 2020
+## [0.0.3] - 17 April 2020
 * Initial Publish
 
 
 
-## [0.0.3] - 17 April 2020
+## [0.0.4] - 17 April 2020
 
-*  Readme file changes 
+*  updated link for github repo for you to fork
+
