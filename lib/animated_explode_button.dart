@@ -94,7 +94,7 @@ class Particle extends StatefulWidget {
   final String no;
   final Size maxSize;
   final Color color;
-  Particle({this.offset, this.controller, this.no, this.maxSize,this.color = Colors.yellow,Key key}) : super(key: key);
+  Particle({this.offset, this.controller, this.no, this.maxSize,@required this.color = Colors.yellow,Key key}) : super(key: key);
   @override
   _ParticleState createState() => _ParticleState();
 }

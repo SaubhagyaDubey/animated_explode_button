@@ -2,6 +2,8 @@
 
 An exploding animation with physics based particles to spice up those boring button clicks
 
+![Button animation](assets/button.gif?raw=true "Title")
+
 #Usage 
 ```Dart
 
